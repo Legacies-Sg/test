@@ -1,1 +1,1 @@
-print("hello Legacies")
+print("hello")
